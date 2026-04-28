@@ -38,4 +38,8 @@ public class HistoricoDeRegistrosNome {
     
     return concatenado;
   }
+
+  public ArrayList<String> getEmails() {
+    return emails;
+  }
 }
