@@ -33,9 +33,13 @@ public class HistoricoDeRegistrosSenha {
     sc.close();
   }
 
-  public String concatenar() {
+ public String concatenar() {
     String concatenado = String.join(",", senhas);
     
     return concatenado;
-  }
+}
+
+public ArrayList<String> getSenhas() {
+    return senhas;
+}
 }
