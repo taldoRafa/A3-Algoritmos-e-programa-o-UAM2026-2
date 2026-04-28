@@ -151,9 +151,8 @@ public class SistemaMarmitas {
 
     default:
         System.out.println("Opção inválida");
-
-        sc.close();
-         }
-        }
+}
+}
+        sc.close(); 
     }   
 }
