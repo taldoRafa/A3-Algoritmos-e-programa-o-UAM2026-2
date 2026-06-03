@@ -77,7 +77,7 @@ Controle de Fluxo com Switch Case
 Laços de Repetição
 
 Autores
-Rafael Soares Vianni
+Rafael Soares Vianni e
 Arthur Cordeiro Buisa Martinelli
 
 Projeto desenvolvido como atividade acadêmica para a disciplina de Algorítimos e Programação.
